@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## Guide
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/singh-saheb/my_wallet_app_ui.git
+cd my_wallet_app_ui
+flutter packages get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The code is heavily inspired from [Shekar Mundaliyar](https://github.com/ShekarMudaliyar/neumorphic_bank_expenses_ui/blob/master/README.md)
