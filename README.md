@@ -1,6 +1,6 @@
 # my_wallet_app_ui
 
-A new Flutter project.
+My Wallet App UI Design inspired from [Dribble](https://dribbble.com/shots/9084817-Conceptual-Dashboard-Screen)
 
 ## Guide
 
